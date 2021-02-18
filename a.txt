@@ -1,6 +1,12 @@
 this my firts gitchangs
 this is my second changs in a.txt
 visu
+1
+2
+3
+1
+2
+3
 
 
 this for merge with conv
