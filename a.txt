@@ -1,1 +1,4 @@
 this my firts gitchangs
+this is my second changs in a.txt
+visu
+
